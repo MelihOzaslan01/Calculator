@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+C:\Users\user\OneDrive\Masaüstü\Calculator2\Calculator2\obj\Debug\Calculator2.FrmMain.resources
